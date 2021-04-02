@@ -1,2 +1,1 @@
-# Shekel
-This Repository is about all thing Blockchain
+Shekel -A Repository is about all thing Blockchain
