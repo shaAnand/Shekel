@@ -10,7 +10,7 @@ Read the original Bitcoin whitepaper [here](https://downloads.coindesk.com/resea
 
 
 
-# Get you hands dirtly ot build your Fist App
+# Get you hands dirtly ot build your First App
 
 
 #  SmartContract 
