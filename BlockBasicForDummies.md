@@ -1,1 +1,2 @@
-BlockBasicForDummies
+# First
+First, let’s start with what money is. Sounds simple, but I bet you that only top 1% really understand what money is. I am certainly not in that 1%. In my research I found MIT course  ‘Blockchain and Money’ [here](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/index.htm) by Prof. Gary Gensler very informative. It’s more than 30+ hour, but definitely worth your time. 
